@@ -1,0 +1,52 @@
+[
+  {
+    "id": "intro-ai",
+    "source": "general",
+    "text": "Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines. It includes learning, reasoning, perception, and language understanding."
+  },
+  {
+    "id": "ml-basics",
+    "source": "ml",
+    "text": "Machine Learning is a subset of AI focused on algorithms that improve automatically through experience. It includes supervised, unsupervised, and reinforcement learning."
+  },
+  {
+    "id": "dl-definition",
+    "source": "ml",
+    "text": "Deep Learning uses neural networks with many layers to model complex patterns in data. It powers modern systems like ChatGPT, image recognition, and speech processing."
+  },
+  {
+    "id": "vector-db",
+    "source": "rag",
+    "text": "A vector database stores embeddings and enables fast similarity search, which is essential for RAG systems. Common vector DBs include Chroma, Pinecone, Qdrant, and FAISS."
+  },
+  {
+    "id": "rag-definition",
+    "source": "rag",
+    "text": "Retrieval-Augmented Generation (RAG) combines document retrieval with LLM generation to provide accurate, grounded answers."
+  },
+  {
+    "id": "langchain",
+    "source": "frameworks",
+    "text": "LangChain is a framework that helps developers build applications with LLMs by providing tools for prompt management, chains, retrieval, and agents."
+  },
+  {
+    "id": "langgraph",
+    "source": "frameworks",
+    "text": "LangGraph is a graph-based workflow engine built on LangChain, designed for building stateful AI agents with flexible control flow."
+  },
+  {
+    "id": "embedding",
+    "source": "nlp",
+    "text": "Embeddings are dense vector representations of text used for semantic similarity search. Models like text-embedding-3-large produce high-quality embeddings."
+  },
+  {
+    "id": "prompt-engineering",
+    "source": "tips",
+    "text": "Prompt engineering involves designing effective inputs that guide LLMs to produce better output. Techniques include system prompts, few-shot examples, and constraints."
+  },
+  {
+    "id": "evaluation",
+    "source": "rag",
+    "text": "RAG evaluation involves measuring relevance, groundedness, hallucination rate, and latency. Common metrics include Recall@k and citation accuracy."
+  }
+]
